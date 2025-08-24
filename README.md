@@ -14,8 +14,8 @@ A **frontend clone of Amazon’s homepage**, showcasing layout, responsive desig
 
 ## 🎮 Rock Paper Scissors
 A fun browser game where you play **rock-paper-scissors** against the computer.  
-- 🌐 [Live Demo](https://username.github.io/web-dev-projects/rock-paper-scissors/)  
-- 📄 [Project Details](rock-paper-scissors/README.md)
+- 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Rock%20Paper%20Scissors%20Game/)
+- 📄 [Project Details](https://github.com/Adnaan-Tech/Rock-Paper-Scissors/blob/main/README.md)
 
 ---
 
