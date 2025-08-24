@@ -7,8 +7,8 @@ Welcome to my collection of frontend projects!
 
 ## 🛒 Amazon Clone
 A **frontend clone of Amazon’s homepage**, showcasing layout, responsive design, and interactive elements.  
-- 🌐 [Live Demo]([https://username.github.io/web-dev-projects/amazon-clone/](https://adnaan-tech.github.io/Web-Development-Projects/Amazon%20homepage%20clone/])  
-- 📄 [Project Details]([amazon-clone/README.md](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Amazon%20homepage%20clone/README.md])
+- 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Amazon%20homepage%20clone/) 
+- 📄 [Project Details](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Amazon%20homepage%20clone/README.md)
 
 ---
 
