@@ -15,11 +15,11 @@ A **frontend clone of Amazon’s homepage**, showcasing layout, responsive desig
 ## 🎮 Rock Paper Scissors
 A fun browser game where you play **rock-paper-scissors** against the computer.  
 - 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Rock%20Paper%20Scissors%20Game/)
-- 📄 [Project Details](https://github.com/Adnaan-Tech/Rock-Paper-Scissors/blob/main/README.md)
+- 📄 [Project Details](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Rock%20Paper%20Scissors%20Game/README.md)
 
 ---
 
 ## 💱 Currency Converter
 A simple tool to **convert currencies instantly** using JavaScript.  
-- 🌐 [Live Demo](https://username.github.io/web-dev-projects/currency-converter/)  
-- 📄 [Project Details](currency-converter/README.md)
+- 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Project%20Currency%20Converter/)  
+- 📄 [Project Details](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Project%20Currency%20Converter/README.md)
