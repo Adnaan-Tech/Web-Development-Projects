@@ -23,3 +23,10 @@ A fun browser game where you play **rock-paper-scissors** against the computer.
 A simple tool to **convert currencies instantly** using JavaScript.  
 - 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Project%20Currency%20Converter/)  
 - 📄 [Project Details](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Project%20Currency%20Converter/README.md)
+
+---
+
+## ⭕❌ Tic-Tac-Toe Game
+A simple and interactive **Tic-Tac-Toe game** built with HTML, CSS, and JavaScript for two players.  
+- 🌐 [Live Demo](https://adnaan-tech.github.io/Web-Development-Projects/Tic%20Tac%20Toe%20Game/)  
+- 📄 [Project Details](https://github.com/Adnaan-Tech/Web-Development-Projects/blob/main/Tic%20Tac%20Toe%20Game/README.md)
