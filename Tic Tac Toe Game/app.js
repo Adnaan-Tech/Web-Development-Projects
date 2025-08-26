@@ -10,7 +10,7 @@ let msgContainer = document.querySelector(".message-container");
 let msg = document.querySelector("#msg");
 
 let turnO = true; //playerX or playerO , whose turn will it be? This line is to track that.
-
+let count = 0; //To Track Draw
 
 //Storing all the winning patterns in an array 
 const winPatterns = [
@@ -113,4 +113,5 @@ const checkWinner = () => {
 };
 
 newGameBtn.addEventListener("click", resetGame);
+
 resetBtn.addEventListener("click", resetGame);
